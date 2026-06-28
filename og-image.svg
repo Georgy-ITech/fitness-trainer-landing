@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0a1a14"/>
+  <rect width="1200" height="630" fill="url(#grad)" opacity="0.6"/>
+  <defs>
+    <radialGradient id="grad" cx="20%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#0a7c60" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0a1a14" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <text x="80" y="240" font-family="'Oswald', 'Arial Black', sans-serif" font-size="96" font-weight="700" fill="#ffffff" letter-spacing="-2">FIT<tspan fill="#0a7c60">SHIFT</tspan></text>
+  <text x="80" y="320" font-family="'Manrope', Arial, sans-serif" font-size="32" font-weight="400" fill="rgba(255,255,255,0.65)">Персональный тренер по трансформации тела</text>
+  <text x="80" y="420" font-family="'Manrope', Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.4)">Лендинг · Vanilla JS · Portfolio project</text>
+</svg>

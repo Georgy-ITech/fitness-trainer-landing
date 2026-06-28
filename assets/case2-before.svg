@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Кейс 2 до: женщина в слабой физической форме">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f1ede9"/>
+      <stop offset="1" stop-color="#dfd5ce"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="80" y="110" width="1040" height="460" rx="24" fill="#fff9f5" stroke="#d5c8bf" stroke-width="3"/>
+  <text x="600" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#3a2b25">Кейс 2 • ДО</text>
+  <circle cx="600" cy="270" r="50" fill="#edc3a8"/>
+  <ellipse cx="600" cy="238" rx="56" ry="32" fill="#4f3f39"/>
+  <rect x="562" y="320" width="76" height="148" rx="36" fill="#9d7b70"/>
+  <ellipse cx="600" cy="406" rx="82" ry="64" fill="#aa887c"/>
+  <rect x="526" y="324" width="24" height="124" rx="12" fill="#edc3a8"/>
+  <rect x="650" y="324" width="24" height="124" rx="12" fill="#edc3a8"/>
+  <rect x="565" y="468" width="24" height="112" rx="12" fill="#453833"/>
+  <rect x="611" y="468" width="24" height="112" rx="12" fill="#453833"/>
+  <text x="600" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#5e4a42">Низкая выносливость, слабый кор</text>
+</svg>

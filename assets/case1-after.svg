@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Кейс 1 после: тот же мужчина в хорошей физической форме">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e4f4e9"/>
+      <stop offset="1" stop-color="#c6dfcf"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="80" y="110" width="1040" height="460" rx="24" fill="#f4fff7" stroke="#a8cab7" stroke-width="3"/>
+  <text x="600" y="185" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" fill="#103428">Кейс 1 • ПОСЛЕ</text>
+  <circle cx="600" cy="270" r="52" fill="#e2b390"/>
+  <rect x="565" y="320" width="70" height="148" rx="34" fill="#0f6f57"/>
+  <ellipse cx="600" cy="400" rx="66" ry="58" fill="#1f8e6f"/>
+  <rect x="525" y="324" width="26" height="126" rx="13" fill="#e2b390"/>
+  <rect x="649" y="324" width="26" height="126" rx="13" fill="#e2b390"/>
+  <rect x="566" y="468" width="26" height="112" rx="13" fill="#20362f"/>
+  <rect x="608" y="468" width="26" height="112" rx="13" fill="#20362f"/>
+  <path d="M570 404 L630 404" stroke="#0b5a45" stroke-width="5"/>
+  <path d="M580 384 L620 384" stroke="#0b5a45" stroke-width="4"/>
+  <text x="600" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#1a4a39">Снижение жира, рельеф и осанка</text>
+</svg>
