@@ -1,0 +1,12 @@
+# FITSHIFT
+
+> Персональный тренер по трансформации тела: тренировки, питание и сопровождение под ваш образ жизни.
+
+Сайт: https://georgy-itech.github.io/fitness-trainer-landing/
+
+## Разделы
+- [Главная](https://georgy-itech.github.io/fitness-trainer-landing/)
+
+## О проекте
+Концепт-проект. Дизайн и разработка — Georgy_Tech (https://kwork.ru/user/georgy_tech).
+Стек: HTML, CSS, JavaScript без внешних зависимостей; шрифты подключены локально.
