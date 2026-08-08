@@ -826,3 +826,62 @@ textarea:focus-visible {
     transform: none;
   }
 }
+
+/* ===== Подвал ===== */
+.site-footer {
+  margin-top: clamp(48px, 8vw, 88px);
+  padding: clamp(40px, 6vw, 64px) 0 24px;
+  background: var(--surface);
+  border-top: 1px solid var(--line);
+}
+.site-footer__inner,
+.site-footer__bottom {
+  width: min(1140px, 92%);
+  margin-inline: auto;
+}
+.site-footer__inner {
+  display: grid;
+  gap: 32px;
+  align-items: start;
+}
+.site-footer__logo {
+  display: inline-block;
+  font-weight: 800;
+  font-size: 1.15rem;
+  letter-spacing: -0.01em;
+}
+.site-footer__brand p {
+  margin: 12px 0 0;
+  max-width: 44ch;
+  color: var(--muted);
+  font-size: 0.94rem;
+  line-height: 1.65;
+}
+.site-footer__nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+}
+.site-footer__nav a {
+  color: var(--muted);
+  font-weight: 600;
+  font-size: 0.94rem;
+  text-decoration: none;
+}
+.site-footer__bottom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 10px;
+  margin-top: 32px;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+.site-footer__bottom a { color: inherit; }
+
+@media (min-width: 768px) {
+  .site-footer__inner { grid-template-columns: 1.6fr 1fr; }
+  .site-footer__nav { justify-content: flex-end; }
+}
